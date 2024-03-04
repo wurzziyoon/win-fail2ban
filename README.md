@@ -1,0 +1,2 @@
+# win-fail2ban
+类似于linux fail2ban防止windows在公网暴露远程端口后被黑客暴力破解密码
